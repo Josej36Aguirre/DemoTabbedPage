@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:DemoTabbedPage"
              x:Class="DemoTabbedPage.MainPage">
 
+    
     <TabbedPage.Children>
         <ContentPage Title="Datos Básicos">
             <StackLayout HorizontalOptions="Center"
